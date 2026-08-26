@@ -24,7 +24,7 @@ so I built the tooling that doesn't. Then I wrote down how, which is the repo be
 - AI, LLM, and agent security. New toys, same old habit of trusting input they shouldn't.
 
 **Public work**
-- [`thick-client-security`](https://github.com/Pa7ch3s/thick-client-security) — the desktop-app methodology I wanted on day one and had to write myself.
+- [`ThickClientAllTheThings`](https://github.com/Pa7ch3s/ThickClientAllTheThings) — the desktop-app methodology I wanted on day one and had to write myself.
 - Writeups and labs, incoming.
 
 **Certs, for the box-checkers**
