@@ -1,12 +1,14 @@
 ### `pa7ch3s`
 
-Ten years of getting paid to find the thing your last three tools swore wasn't there, then explaining
-it in words your CFO can repeat at dinner without flinching.
+Ten plus years in this field and I'm still a NOOB. Took me long enough to publish one of these, right?
 
-Red team, pentest, black-box research. I take the small stuff nobody worried about and chain it into
-the bad day nobody planned for, on a schedule, with a report, so the real version never happens.
+I've been in-house for the last 4 years, getting paid to find the things your last three tools lied about (that wasn't a false positive), then explaining it in words your CFO can repeat at dinner without flinching.
 
-Founder of **Wickmark Group**, independent security assessment and validation.
+Let me back up. I heart:
+Red teaming, Pentesting (i know... polar opposites) and simply research in general. 
+Habitual hand raiser for the test nobody wants (thick clients & netpen).
+
+Presently: I'm an Independent Security Consultant (I genuinely like being in the field...)
 
 **My lane: thick clients.**
 Everyone's off fuzzing web forms while the desktop app sits there with local admin, a signing cert,
