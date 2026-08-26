@@ -6,11 +6,12 @@ I've been in-house for the last 4 years, getting paid to find the things your la
 
 Let me back up. I heart:
 
-Red teaming, Pentesting (i know... polar opposites) and simply research in general.
+Red teaming, Pentesting (i know... polar opposites); Security Research in general
 
-Habitual hand raiser for the test nobody wants (thick clients & netpen).
+Habitual hand raiser for the test nobody wants: thick clients & netpen
 
-Presently: I'm an Independent Security Consultant (I genuinely like being in the field...)
+Presently, I'm an Independent Security Consultant 
+(I genuinely like being in the field...)
 
 **My lane: thick clients.**
 Everyone's off fuzzing web forms while the desktop app sits there with local admin, a signing cert,
