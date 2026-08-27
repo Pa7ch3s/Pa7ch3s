@@ -1,15 +1,15 @@
 ### `pa7ch3s`
 
-10+ Years in this field and I still feel like a NOOB. Doing it anyways.
-I've been in-house for the last 4 years, getting paid to find bugs your last three tools lied about (that wasn't a false positive). 
-Then explaining it in words your CFO can repeat at dinner without flinching.
-I'll back up here
+10+ Years in this field and I still feel like a NOOB. Oh well, this is me!
+Been in-house for the last 4 years.
 
 I heart:
-Red teaming, Pentesting (i know... polar opposites); Security Research in general
-Habitual hand raiser for the test nobody wants: thick clients & netpen
-Presently, I'm an Independent Security Consultant 
-(I genuinely like being in the field...)
+Red teaming, Pentesting (2 polar opposites btw); Security Research in general...
+
+I'm also a habitual hand raiser for the test nobody wants: Thick Clients & NetPen
+
+Independent Security Consultant 
+I genuinely like being in the field.
 
 **My lane: thick clients.**
 Everyone's off fuzzing web forms while the desktop app sits there with local admin, a signing cert,
