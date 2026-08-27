@@ -2,14 +2,14 @@
 
 10+ Years in this field and I still feel like a NOOB. Oh well, this is me!
 
-Been in-house for the last 4 years
+Been in-house for the last 4 years.
 I heart:
 Red teaming, Pentesting (2 polar opposites btw); Security Research in general...
 
-I'm also a habitual hand raiser for the test nobody wants: Thick Clients & NetPen
+I'm also a habitual hand raiser for the test nobody wants: Thick Clients & NetPen.
 
-Independent Security Consultant 
-I genuinely like being in the field.
+Independent Security Consultant.
+I genuinely like being in the field!
 
 **My lane: thick clients.**
 Everyone's off fuzzing web forms while the desktop app sits there with local admin, a signing cert,
