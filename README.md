@@ -1,14 +1,13 @@
 ### `pa7ch3s`
 
-Ten plus years in this field and I'm still a NOOB. Took me long enough to publish one of these, right?
+10+ Years in this field and I still feel like a NOOB. Doing it anyways.
+I've been in-house for the last 4 years, getting paid to find bugs your last three tools lied about (that wasn't a false positive). 
+Then explaining it in words your CFO can repeat at dinner without flinching.
+I'll back up here
 
-I've been in-house for the last 4 years, getting paid to find the things your last three tools lied about (that wasn't a false positive), then explaining it in words your CFO can repeat at dinner without flinching.
-
-Let me back up. I heart:
+I heart:
 Red teaming, Pentesting (i know... polar opposites); Security Research in general
-
 Habitual hand raiser for the test nobody wants: thick clients & netpen
-
 Presently, I'm an Independent Security Consultant 
 (I genuinely like being in the field...)
 
