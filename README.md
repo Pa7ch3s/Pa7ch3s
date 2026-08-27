@@ -1,8 +1,8 @@
 ### `pa7ch3s`
 
 10+ Years in this field and I still feel like a NOOB. Oh well, this is me!
-Been in-house for the last 4 years.
 
+Been in-house for the last 4 years
 I heart:
 Red teaming, Pentesting (2 polar opposites btw); Security Research in general...
 
