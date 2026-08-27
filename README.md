@@ -24,8 +24,8 @@ so I built the tooling that doesn't. Then I wrote down how, which is the repo be
 - AI, LLM, and agent security. New toys, same old habit of trusting input they shouldn't.
 
 **Public work**
-- [`ThickClientAllTheThings`](https://github.com/Pa7ch3s/ThickClientAllTheThings) — the desktop-app methodology I wanted on day one and had to write myself.
-- Writeups and labs, incoming.
+- [Exploit Nation](https://pa7ch3s.github.io/exploitnation/) — Book 01, ThickClientAllTheThings, the desktop-app methodology I wanted on day one and had to write myself. [Source](https://github.com/Pa7ch3s/exploitnation).
+- More books, incoming.
 
 **Certs, for the box-checkers**
 Zero Point Security CRTO · Certified Web3 Hacker · Blockchain Security Expert · CompTIA CySA+ · Cisco CyberOps Associate · INE Cloud Associate · AWS Cloud Foundations
