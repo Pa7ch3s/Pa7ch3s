@@ -28,7 +28,4 @@ so I built the tooling that doesn't. Then I wrote down how, which is the repo be
 **Certs, for the box-checkers**
 Zero Point Security CRTO · Certified Web3 Hacker · Blockchain Security Expert · CompTIA CySA+ · Cisco CyberOps Associate · INE Cloud Associate · AWS Cloud Foundations
 
-**Find me**
-- LinkedIn: https://linkedin.com/in/jerrod-baker
-
 <sub>Assessment and validation is authorized work only. Everything here is for defensive and educational use.</sub>
