@@ -22,7 +22,7 @@ so I built the tooling that doesn't. Then I wrote down how, which is the repo be
 - Agentic AI, LLM, and agent security. = New toys, same old habit of trusting input they shouldn't. Just faster now.
 
 **Public work**
-- [Exploit Nation](https://pa7ch3s.github.io/exploitnation/): Book 01, ThickClientAllTheThings, the desktop-app methodology I wanted on day one and had to write myself. [Source](https://github.com/Pa7ch3s/exploitnation).
+- [Exploit Nation](https://pa7ch3s.github.io/exploitnation/): Book 01, ThickClientAllTheThings, my growing desktop-app methodology.  [Source](https://github.com/Pa7ch3s/exploitnation).
 - More books, incoming.
 
 **Certs, for the box-checkers**
