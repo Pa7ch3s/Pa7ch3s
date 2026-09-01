@@ -1,8 +1,8 @@
 ### `pa7ch3s`
 
-10+ Years in this field and I still feel like a NOOB. Oh well, this is me!
--
-Been in-house for the last 4 years... It's time I go my own way.
+10+ Years in this field and I still feel like a NOOB. Anywayz, this is me!
+
+Been in-house for the last 4 years & it's time I go my own way.
 
 ### `I heart`:
 - Red teaming
