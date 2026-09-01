@@ -8,15 +8,14 @@ Been in-house for the last 4 years... It's time I go my own way.
 - Red teaming
 - Pentesting (2 polar opposites btw)
 - Security Research in general...
-### `**TRYHARD**` @: Thick Clients, NetPen
+### `**TRYHARD**` @: 
+- Thick Clients : If you find yourself being the only person who does a lot of these, I got you covered. [Steps to reproduce included]
+- NetPen
 
-**Independent Security Consultant**
+### `**Independent Security Consultant**`
 "I genuinely like being in the field!"
 
-**My lane: thick clients.**
-I got tired of testing those slowly, so I built the tooling that doesn't. You'll find my **how's** here, which is the repo below.
-
-**Also fluent in**
+### `**Also fluent in**`
 - Physical/On-site, Social Engineering
 - Web3 and smart-contracts (Oohhh yeaa... $$$).
 - Agentic AI, LLM, and agent security. = New toys, same problem! (You trust too much) Just faster now.
@@ -26,7 +25,8 @@ I got tired of testing those slowly, so I built the tooling that doesn't. You'll
 - Book 02 RedTeamsGalore; coming in hot...
 
 **Certs, for the box-checkers**
-- Zero Point Security CRTO
+- Zero Point Security CRTO (Certified Red Team Operator)
+- Zero Point Security CRTL (Certified Red Team Lead)
 - Certified Web3 Hacker
 - Blockchain Security Expert
 - CompTIA CySA+
