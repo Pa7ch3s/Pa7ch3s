@@ -4,11 +4,11 @@
 
 Been in-house for the last 4 years... It's time I go my own way.
 
-###I heart:
+### `I heart`:
 - Red teaming
 - Pentesting (2 polar opposites btw)
 - Security Research in general...
-- **TRYHARD** on: Thick Clients, NetPen
+### `**TRYHARD**` @: Thick Clients, NetPen
 
 **Independent Security Consultant**
 "I genuinely like being in the field!"
