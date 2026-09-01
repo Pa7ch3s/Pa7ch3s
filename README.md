@@ -25,7 +25,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 ### `The Good Stuff`
 - [Exploit Nation](https://pa7ch3s.github.io/exploitnation/): Book 01, ThickClientGalore;  [Source](https://github.com/Pa7ch3s/exploitnation).
 - Book 02, RedTeamsGalore; Coming in hot...
-- Book 03, BlueTeamAgents; CounterThreatDefense
+- Book 03, BlueTeamAgents; ActiveThreatDefense
 
 ### `Certs, for the box-checkers`
 - Zero Point Security CRTO (Certified Red Team Operator)
