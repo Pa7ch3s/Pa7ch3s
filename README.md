@@ -4,20 +4,17 @@
 
 Been in-house for the last 4 years... It's time I go my own way.
 
-I heart:
+###I heart:
+- Red teaming
+- Pentesting (2 polar opposites btw)
+- Security Research in general...
+- ##TRYHARD## on: Thick Clients, NetPen
 
-  Red teaming
-  
-  Pentesting (2 polar opposites btw)
-  
-  Security Research in general...
-*TRYHARD @: Thick Clients, NetPen
-
-Independent Security Consultant.
+**Independent Security Consultant**
 "I genuinely like being in the field!"
 
 **My lane: thick clients.**
-I got tired of testing those slowly, so I built the tooling that doesn't. You'll find my **how's** here, which is the repo below.
+I got tired of testing those slowly, so I built the tooling that doesn't. You'll find my ##how's## here, which is the repo below.
 
 **Also fluent in**
 - Physical/On-site, Social Engineering
