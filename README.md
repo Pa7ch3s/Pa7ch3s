@@ -1,7 +1,7 @@
 ### `pa7ch3s`
 Been in-house for the last 4 years & it's time I "go my own way". Anywayz, this is me!
 
-11 Years tinkering and still feeling like a NOOB is wild. Technology, right?
+11 Years tinkering and STILL feeling like a NOOB is wild. (Technology, right?)
 
 ### `I heart`:
 - Red teaming
