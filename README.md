@@ -26,7 +26,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 - [Exploit Nation](https://pa7ch3s.github.io/exploitnation/): Book 01, ThickClientAllTheThings;  [Source](https://github.com/Pa7ch3s/exploitnation).
 - Book 02 RedTeamsGalore; coming in hot...
 
-**Certs, for the box-checkers**
+### `Certs, for the box-checkers`
 - Zero Point Security CRTO (Certified Red Team Operator)
 - Zero Point Security CRTL (Certified Red Team Lead)
 - Certified Web3 Hacker
