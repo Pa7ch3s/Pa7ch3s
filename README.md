@@ -8,13 +8,13 @@ Been in-house for the last 4 years... It's time I go my own way.
 - Red teaming
 - Pentesting (2 polar opposites btw)
 - Security Research in general...
-- ##TRYHARD## on: Thick Clients, NetPen
+- **TRYHARD** on: Thick Clients, NetPen
 
 **Independent Security Consultant**
 "I genuinely like being in the field!"
 
 **My lane: thick clients.**
-I got tired of testing those slowly, so I built the tooling that doesn't. You'll find my ##how's## here, which is the repo below.
+I got tired of testing those slowly, so I built the tooling that doesn't. You'll find my **how's** here, which is the repo below.
 
 **Also fluent in**
 - Physical/On-site, Social Engineering
@@ -26,6 +26,12 @@ I got tired of testing those slowly, so I built the tooling that doesn't. You'll
 - Book 02 RedTeamsGalore; coming in hot...
 
 **Certs, for the box-checkers**
-Zero Point Security CRTO · Certified Web3 Hacker · Blockchain Security Expert · CompTIA CySA+ · Cisco CyberOps Associate · INE Cloud Associate · AWS Cloud Foundations
+- Zero Point Security CRTO
+- Certified Web3 Hacker
+- Blockchain Security Expert
+- CompTIA CySA+
+- Cisco CyberOps Associate
+- INE Cloud Associate
+- AWS Cloud Foundations
 
 <sub>Everything here is for educational purposes only. Enjoy!</sub>
