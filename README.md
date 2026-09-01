@@ -3,7 +3,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 
 11 Years tinkering and STILL feeling like a NOOB is wild. (Technology, right?)
 
-### `I heart`:
+### `I heart`
 - Red teaming
 - Pentesting (2 polar opposites btw)
 - Security Research in general
