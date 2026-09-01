@@ -36,4 +36,4 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 - INE Cloud Associate
 - AWS Cloud Foundations
 
-<sub>Everything here is for educational purposes only. Enjoy!</sub>
+### `Everything here is for educational purposes only. Enjoy!`
