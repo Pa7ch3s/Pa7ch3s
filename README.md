@@ -21,7 +21,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 
 (Why so trusting?) + (a much fast3r & SCALED process) * (zer0 hum4n-in-the-loop) = good times ahead!!! 
 
-**The Good Stuff**
+### `The Good Stuff`
 - [Exploit Nation](https://pa7ch3s.github.io/exploitnation/): Book 01, ThickClientAllTheThings;  [Source](https://github.com/Pa7ch3s/exploitnation).
 - Book 02 RedTeamsGalore; coming in hot...
 
