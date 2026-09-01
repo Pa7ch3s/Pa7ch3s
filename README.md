@@ -1,5 +1,5 @@
 ### `pa7ch3s`
-Been in-house for the last 4 years & it's time I "go my own way"! Anyways, this is me.
+Been in-house for the last 4 years & it's time I go my own way! Anyways, this is me.
 
 11 Years tinkering and STILL feeling like a NOOB is wild. (Technology, right?)
 
