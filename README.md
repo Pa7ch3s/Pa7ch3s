@@ -7,7 +7,8 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 - Red teaming
 - Pentesting (2 polar opposites btw)
 - Security Research in general
-### `TRYHARD` @: 
+### `TRYHARD` @
+(everything really but especially)
 - Thick Clients : If you find yourself being the only person who does a lot of these, I got you covered. [Steps to reproduce included]
 - NetPen
 
