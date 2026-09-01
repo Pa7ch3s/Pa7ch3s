@@ -6,7 +6,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 ### `I heart`:
 - Red teaming
 - Pentesting (2 polar opposites btw)
-- Security Research in general...
+- Security Research in general
 ### `**TRYHARD**` @: 
 - Thick Clients : If you find yourself being the only person who does a lot of these, I got you covered. [Steps to reproduce included]
 - NetPen
@@ -16,7 +16,7 @@ Been in-house for the last 4 years & it's time I go my own way! Anyways, this is
 
 ### `**Also fluent in**`
 - Physical/On-site, Social Engineering
-- Web3 and smart-contracts (Oohhh yeaa... $$$).
+- Web3 and smart-contracts (Oohhh yeaa $$$).
 - Agentic AI, LLM, and agent security. = New toys, same problem! (You trust too much) Just faster now.
 
 **Public work**
